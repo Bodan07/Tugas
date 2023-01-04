@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1670768338 source:e:\materi\semester 3\tp std\tpmod12\tpmod12\main.cpp
+	"flight.h"
+
+1670769741 source:e:\materi\semester 3\tp std\tpmod12\tpmod12\flight.cpp
+	"flight.h"
+
+1670769753 e:\materi\semester 3\tp std\tpmod12\tpmod12\flight.h
+	<iostream>
+
